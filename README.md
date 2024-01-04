@@ -1,1 +1,1 @@
-Typing speed calculator
+<b>Typing speed calculator<b>
