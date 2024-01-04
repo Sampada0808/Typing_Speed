@@ -12,4 +12,4 @@ Welcome to the Typing Speed Calculator, a Python application that measures your 
 
 ## Screenshots
 
-![Typing Speed Calculator](photos/Start_Screen.png)
+![Typing Speed Calculator](/photos/Start_Screen.png)
